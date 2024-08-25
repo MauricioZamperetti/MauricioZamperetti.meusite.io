@@ -1,0 +1,51 @@
+h3{
+    margin: 0 auto;
+    padding: 0;    
+}
+
+p, h1, h2{
+    text-align: justify;
+
+}
+
+li{
+    padding: 10px; /* Aumentei um pouco o espaçamento para melhorar a visualização */
+}
+
+.sobre{
+    width: 47.5%;
+    height: auto;
+    border: solid 5px;
+    border-radius: 50px 50px;
+    padding: 20px;
+}
+
+.estilo{
+    margin: 1px;
+    width: 48.5%;
+    height: auto;
+    border: solid 5px;
+    border-radius: 1px 1px;
+    padding: 10px;
+    text-align: center;
+    background-color: darkgoldenrod;
+
+}
+
+.portifolio{
+    width: 47.5%;
+    height: auto;
+    border: solid 5px;
+    border-radius: 50px 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+.div2{
+    width: 47.5%;
+    height: auto;
+    border: solid 5px;
+    border-radius: 50px 50px;
+    padding: 20px;
+    margin: 1px;
+}
